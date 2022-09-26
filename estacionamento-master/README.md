@@ -96,14 +96,3 @@ Dar clean no projeto
 ![estacionamentos](https://user-images.githubusercontent.com/20683723/43300392-5ca17838-9135-11e8-82d5-aeda144084ac.png)
 ![listagem](https://user-images.githubusercontent.com/20683723/43300395-5ead45a8-9135-11e8-809e-0d9eb6a8acff.png)
 ![mobile](https://user-images.githubusercontent.com/20683723/43300396-60b17f90-9135-11e8-87c8-65ffd9d705e7.png)
-
-## Creator
-
-**Jair Alarcón**
-
-- E-mail: jairabu@gmail.com
-- LinkedIn: www.linkedin.com/in/jairabu
-- Facebook: www.facebook.com/jairabu
-- Instagram: https://www.instagram.com/jairabu
-- Github: https://github.com/jairabu
-- Youtube: www.youtube.com/jairabu
